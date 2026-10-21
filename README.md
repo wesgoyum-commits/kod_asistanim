@@ -1,10 +1,10 @@
 Proje Yazarı: Mehmet Kerem Köylü
 
 Projenin Adı: Kod-Asistan v0.1
-Projenin Amacı:
-Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak ve temel görevleri hızlıca yerine getirebilecek modüler bir dijital asistan tasarlamak.
+#Projenin Amacı:
+##Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak ve temel görevleri hızlıca yerine getirebilecek modüler bir dijital asistan tasarlamak.
 
-Projenin Hedefleri:
+###Projenin Hedefleri:
 v1.0 Akıllı Menü: Kullanıcıların sık kullandığı araçlara ve hesaplama modüllerine tek bir arayüzden kolayca erişebilmesini sağlayan dinamik bir menü sistemine geçilmesi.
 
 v2.0 Veri Saklama: Kullanıcı tercihlerinin, geçmiş işlemlerin ve sık kullanılan komutların oturumlar arasında korunabilmesi için kalıcı veri depolama desteğinin eklenmesi.
